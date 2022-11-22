@@ -8,9 +8,8 @@ for ($i = 11098; $i < 56000; $i++) {
 
     $numberArray = $sortedNumberArray = str_split($i);
     sort($sortedNumberArray);
-    $isValid = $sortedNumberArray === $numberArray;
 
-    if ($isValid) {
+    if ($sortedNumberArray === $numberArray) {
         array_push($result, $i);
     }
 }
