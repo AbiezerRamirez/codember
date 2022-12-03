@@ -69,3 +69,7 @@ Tienes que crear un algoritmo que nos diga qué usuario sobreviviría usando el 
 Envía la solución con el comando submit, y el índice de la persona que sobrevive y su nombre de usuario, separado de un guión.
 
 Por ejemplo, si el usuario que sobrevive es facundopacua y está en el índice 8 sería:
+
+```
+$ submit facundocapua-8
+```

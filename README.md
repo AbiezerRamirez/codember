@@ -11,9 +11,10 @@ Solutions for https://codember.dev/
 
 ## Challenges 👨‍💻
 
-| Number    | Challenge                   | Solution                     |
-|:---------:| --------------------------- |:----------------------------:|
-| 1         | Fix Twitter!                | [PHP](./challenge01/app.php) |
-| 2         | Catch those cybercriminals! | [PHP](./challenge02/app.php) |
-| 3         | Zebra of colors             | [PHP](./challenge03/app.php) |
-| 4         | Dude, I lost my password    | [PHP](./challenge04/app.php) |
+| Number | Challenge                                 |           Solution           |
+| :----: | ----------------------------------------- | :--------------------------: |
+|   1    | Fix Twitter!                              | [PHP](./challenge01/app.php) |
+|   2    | Catch those cybercriminals!               | [PHP](./challenge02/app.php) |
+|   3    | Zebra of colors                           | [PHP](./challenge03/app.php) |
+|   4    | Dude, I lost my password                  | [PHP](./challenge04/app.php) |
+|   5    | Battle Royale of frameworks and libraries | [PHP](./challenge05/app.php) |
