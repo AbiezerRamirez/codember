@@ -1,4 +1,4 @@
-# Challenge 5: Battle Royale de farameworks y bibliotecas
+# Challenge 5: Battle Royale de farameworks y bibliotecas 👑
 
 ## Problema 🤷🏽‍♂️
 
